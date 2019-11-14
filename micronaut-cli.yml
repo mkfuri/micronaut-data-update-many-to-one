@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.data.update.many.to.one
+---
+testFramework: spock
+sourceLanguage: java
